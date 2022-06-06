@@ -1,0 +1,282 @@
+,Name,Description,Name_Tokens,Description_Tokens,is_French,is_Italian,is_Polish,is_Mexican,is_Spanish
+1,a la ," French for the style of, such as ""a la Francaise"" meaning ""in the style of the French""","['a', 'la']","['a', 'la']",1,0,0,0,0
+2,a la Bourgeoise ," French for in ""the style of the family""","['a', 'la', 'Bourgeoise']","['a', 'la', 'Bourgeoise']",1,0,0,0,0
+3,a la Broche , French for cooked on a skewer over a flame,"['a', 'la', 'Broche']","['a', 'la', 'Broche']",1,0,0,0,0
+5,a la carte, [French] refers to a list of food items each priced separately.,"['a', 'la', 'carte']","['a', 'la', 'carte']",1,0,0,0,0
+6,a la creme, [French] served with cream or a cream-based sauce.,"['a', 'la', 'creme']","['a', 'la', 'creme']",1,0,0,0,0
+7,a la Creole," [French] dishes prepared with tomatoes, green peppers and onions as important ingredients.","['a', 'la', 'Creole']","['a', 'la', 'Creole']",1,0,0,0,0
+8,a la Florentine ," Literally French for ""in the style of Florence"". In Italian, ""alla Florentine"". It refers to dishes served with spinach and topped with a mornay sauce. ","['a', 'la', 'Florentine']","['a', 'la', 'Florentine']",1,1,0,0,0
+9,a la Greque (a la Grecqua)," [French] means ""in the Greek manner."" Term describes vegetables cooked in a mixture of oil and vinegar, or lemon juice, with seasoning added. Serve cold or chilled.","['a', 'la', 'Greque', '(a', 'la', 'Grecqua)']","['a', 'la', 'Greque', '(a', 'la', 'Grecqua)']",1,0,0,0,0
+11,a la minute, [French] cooked to order.,"['a', 'la', 'minute']","['a', 'la', 'minute']",1,0,0,0,0
+13,a la mode, [French] served with or in the fashion of. Desserts served a la mode are served with ice cream; meats served a la mode are braised with vegetables and served with gravy.,"['a', 'la', 'mode']","['a', 'la', 'mode']",1,0,0,0,0
+14,a la Provencal , French for dishes prepared with garlic and olive oil.,"['a', 'la', 'Provencal']","['a', 'la', 'Provencal']",1,0,0,0,0
+15,a la, [French] in the manner or style of.,"['a', 'la']","['a', 'la']",1,0,0,0,0
+16,a l'Anglaise, [French] In the English style; boiled and served without a sauce.,"['a', ""l'Anglaise""]","['a', ""l'Anglaise""]",1,0,0,0,0
+18,Abaisee , 1. A French term for a puff pastry sheets that have been rolled very thin.2. thin slice of sponge cake used in a dessert.,['Abaisee'],['Abaisee'],1,0,0,0,0
+26,Aboyeur," [French] Expediter or announcer; a station in the brigade system. The aboyeur accepts orders from the dining room, relays them to the appropriate stations of the kitchen, and checks each plate before it leaves the kitchen.",['Aboyeur'],['Aboyeur'],1,0,0,0,0
+96,Agneau , French term for lamb. ,['Agneau'],['Agneau'],1,0,0,0,0
+111,Ail , French term for garlic.,['Ail'],['Ail'],1,0,0,0,0
+112,Ail, [French] garlic.,['Ail'],['Ail'],1,0,0,0,0
+114,Aioli, [French] a cold egg and oil emulsion with olive oil and garlic. Many variations of this sauce are made. Basically is is a garlic mayonnaise.,['Aioli'],['Aioli'],1,0,0,0,0
+145,Albert, a French hot horseradish sauce.,['Albert'],['Albert'],1,0,0,0,0
+157,Algorienne, [French] a garnish of small tomatoes and sweet potato croquettes.,['Algorienne'],['Algorienne'],1,0,0,0,0
+172,Allumettes ," The French word for ""match,"" also refers to potatoes that have been cut into thin ""matchsticks""",['Allumettes'],['Allumettes'],1,0,0,0,0
+173,Allumettes," [French] Vegetable strips, matchstick-size in length and width.",['Allumettes'],['Allumettes'],1,0,0,0,0
+174,Almandine, [French] made or garnished with almonds. An alternate spelling is Amandine.,['Almandine'],['Almandine'],1,0,0,0,0
+187,Amandine , This French term refers to dishes garnished with almonds. Often spelled Almondine. ,['Amandine'],['Amandine'],1,0,0,0,0
+200,AmEricaine, A French sauce or garnish containing lobster meat.,['AmEricaine'],['AmEricaine'],1,0,0,0,0
+222,Andouille," A hard, smoked, highly-seasoned pork, Creole-Acadian sausage originating in communities along the lower Mississippi River. Is used regularly in Creole cooking, but it is popular in French cooking as well. The Creole version of this sausage is much spicier than those made in France.",['Andouille'],['Andouille'],1,0,0,0,0
+227,Anglaise," [French] The manner of simple English-style cooking, such as boiling or steaming.",['Anglaise'],['Anglaise'],1,0,0,0,0
+233,Anisette , A sweet French liqueur made with aniseed. It is produced as a flavor blend of aniseeds and aromatic herbs.,['Anisette'],['Anisette'],1,0,0,0,0
+269,Arlasienne, [French] rings or slices of vegetables cooked in oil.,['Arlasienne'],['Arlasienne'],1,0,0,0,0
+318,Au bleu, [French] blue; fish cooked immediately after being caught will turn blue upon preparation.,"['Au', 'bleu']","['Au', 'bleu']",1,0,0,0,0
+321,Au gratin, Describing a dish with a browned topping of bread crumbs and/or cheese; a French term ,"['Au', 'gratin']","['Au', 'gratin']",1,0,0,0,0
+322,au Gratin , A French term for a dish with a browned topping of bread or cracker crumbs and/or grated cheese. Also known as gratin?. ,"['au', 'Gratin']","['au', 'Gratin']",1,0,0,0,0
+323,Au gratin," [French] cooked food, covered with a sauce and sprinkled with crumbled or grated cheese, dotted with butter and browned under the grill or broiler.","['Au', 'gratin']","['Au', 'gratin']",1,0,0,0,0
+324,Au jus," Referring to meats, poultry, or game served with its own unthickened juices; a French term","['Au', 'jus']","['Au', 'jus']",1,0,0,0,0
+325,Au Jus ," A French term for roasted poultry or meats served with their natural, unthickened juices.","['Au', 'Jus']","['Au', 'Jus']",1,0,0,0,0
+326,Au jus, [French] served in unthickened natural juices or natural meat drippings.,"['Au', 'jus']","['Au', 'jus']",1,0,0,0,0
+328,Au lait, [French] with milk.,"['Au', 'lait']","['Au', 'lait']",1,0,0,0,0
+344,Aux fines herbes," [French] term applied to a dish to which a combination of delicate fresh herbs (usually tarragon, chervil, parsley, and chives) have been added.","['Aux', 'fines', 'herbes']","['Aux', 'fines', 'herbes']",1,0,0,0,0
+359,Baba," a French or Italian small sweet cake made from enriched yeast dough, often flavored with candied fruits and soaked with a rum or Kirschwasser syrup after baking. This dough is also used to make the larger savarin.",['Baba'],['Baba'],1,1,0,0,0
+384,Bagna Cauda," Meaning ""warm bath"", this is a dip made of anchovies, olive oil and garlic. Unlike the French anchoiade, this is served warm and is not emulsified. Bread and raw vegetables are served with this dip.","['Bagna', 'Cauda']","['Bagna', 'Cauda']",1,0,0,0,0
+385,Baguette," A long, narrow loaf of French bread, usually with a crispy brown crust and a soft, but chewy interior.",['Baguette'],['Baguette'],1,0,0,0,0
+386,Bain Marie," [French] Simply a water bath. It consists of placing a container of food in a large, shallow pan of warm water, which surrounds the food with gentle heat. The food may be cooked in this manner either in an oven or on top of a range. This technique is designed to cook delicate dishes such as custards, sauces and savory mousses without breaking or curdling them. It can also be used to keep foods warm.","['Bain', 'Marie']","['Bain', 'Marie']",1,0,0,0,0
+400,Baking potato," This term refers to Idaho and russet potatoes, the big potatoes with rough, brown skin and numerous eyes. These potatoes are low in moisture and high in starch, which makes them ideal for baking. They also make good mashed potatoes and French fries.","['Baking', 'potato']","['Baking', 'potato']",1,0,0,0,0
+458,Batarde, A French butter sauce made with egg yolks.,['Batarde'],['Batarde'],1,0,0,0,0
+491,Beignet, A French or Creole version of doughnuts. Dough or batter is deep fried and dusted with powdered sugar or glazed with a flavored syrup.,['Beignet'],['Beignet'],1,0,0,0,0
+496,Belle Helene," Best known as the name of a dessert with poached pears, ice cream, and chocolate sauce. It is also a term used in French cookery as a name for a garnish to grilled meat dishes.","['Belle', 'Helene']","['Belle', 'Helene']",1,0,0,0,0
+505,Bercy, A French sauce with white wine and shallots as a base.,['Bercy'],['Bercy'],1,0,0,0,0
+568,Blanquette," [French] A white, creamy stew of veal, chicken, rabbit or lamb with small onions and mushrooms. The sauce is thickened with roux and enriched with cream.",['Blanquette'],['Blanquette'],1,0,0,0,0
+584,Blue (Bleu) Cheese," A semi-soft, blue-veined cheese produced from cow's milk. It has a very strong, pungent aroma. Similar in flavor to French Roquefort and Italian Gorgonzola.","['Blue', '(Bleu)', 'Cheese']","['Blue', '(Bleu)', 'Cheese']",1,1,0,0,0
+608,Bolillos, Mexican hard rolls which are similar to French bread; also a short rolling pin 2 inches in diameter and 8 inches or more long which rolls tortillas to a uniform thickness.,['Bolillos'],['Bolillos'],1,0,0,1,0
+640,Bouchee, [French] A small round puff pastry shell baked blind used for sweet or savory fillings.,['Bouchee'],['Bouchee'],1,0,0,0,0
+652,Bouquet garni," A French-invented sachet of herbs, traditionally tied together, but now sold in small muslin bags. Usually includes parsley, thyme, a bay leaf and some rosemary, but may also include marjoram, garlic, rosemary, etc. Variations may include fennel, leeks, celery leaves, citrus rinds, garlic and black pepper. Added to stews, soups and sauces for flavoring; the bundle is easily removed when desired.","['Bouquet', 'garni']","['Bouquet', 'garni']",1,0,0,0,0
+653,Bourguignon," [French] Foods cooked in the style of Burgundy. This includes red wine, mushrooms, pearl onions, and bacon. Also spelled; Bourgogne or Bourguignonne.",['Bourguignon'],['Bourguignon'],1,0,0,0,0
+656,Boursin Cheese," A French triple cream cheese with a soft texture; made from cow's milk and often flavored with herbs, garlic or pepper.","['Boursin', 'Cheese']","['Boursin', 'Cheese']",1,0,0,0,0
+702,Brioche," [French] A large light, very rich, yeast roll made with lots of butter and eggs. Brioche is baked in many shapes though the brioche e tete is best known. The dough can be flavored with nuts or candied fruit, as well as herbs and spices. It may also be used to wrap foods like coulibiac. Slices of toasted brioche are the perfect companion to foie gras and gravlax. Brioche is very similar to the Jewish Challah.",['Brioche'],['Brioche'],1,0,0,0,0
+710,Brochette," [French] A skewer. Food cooked ""en brochette"" is cooked on a skewer.",['Brochette'],['Brochette'],1,0,0,0,0
+730,Brulee, [French] Finishing method applied to dishes such as cream custards finished with caramelized sugar glaze. Can be done with a torch or under the broiler.,['Brulee'],['Brulee'],1,0,0,0,0
+799,Cajun, Cooking influenced by southern U.S. and French cuisine.,['Cajun'],['Cajun'],1,0,0,0,0
+829,Camembert Cheese," A soft, surface-ripened French cheese, similar to brie. The cheese is famous for its gray, felt-like rind, slightly bitter flavor and complex aroma. When overripe, camembert will be runny, bitter and rank. When ripe, the cheese should ooze thickly, look plump and feel soft to the touch.","['Camembert', 'Cheese']","['Camembert', 'Cheese']",1,0,0,0,0
+836,Canape," [French] plain or toasted bread or crackers topped with a savory mixture. Usually served as appetizers, with cocktails, snacks or for lunch. They may be served hot or cold, they are often elaborately garnished.",['Canape'],['Canape'],1,0,0,0,0
+837,Canard, [French] duck.,['Canard'],['Canard'],1,0,0,0,0
+848,Caneton, [French] duckling.,['Caneton'],['Caneton'],1,0,0,0,0
+957,Casserole," [French] A meat, fish and/or vegetable dish which is cooked and served in the same pot.",['Casserole'],['Casserole'],1,0,0,0,0
+976,Cayenne," Cayenne pepper is used to describe almost any hot, finely ground red chile pepper, but it was named after several tropical varieties that originated in Cayenne in French Guiana. A dried chile, they is also known as ginnie peppers; 3 to 8 inches long and slender, measuring about 1/2 inch across; fiery chiles that can be used in soups and stews, but are most commonly ground and used as a seasoning; chiles de arbol are closely related and may be substituted.",['Cayenne'],['Cayenne'],1,0,0,0,0
+1010,Chafing Dish," A pan (usually metal) containing food, nestled inside a larger pan containing water. The ensemble sits directly over a heat source, which keeps the food warm; used mostly for buffets. Also known as rechaud, which is French for reheat.","['Chafing', 'Dish']","['Chafing', 'Dish']",1,0,0,0,0
+1019,Champignon, [French] mushroom found as the champignon de Paris. Cultivated button-shaped white mushroom.,['Champignon'],['Champignon'],1,0,0,0,0
+1020,Champignons," French word for mushrooms, generally of the button variety, used in the names of recipes and restaurant dishes.",['Champignons'],['Champignons'],1,0,0,0,0
+1026,Chantilly, [French] This is a name for sweetened whipped cream flavored with vanilla. The term may also be used to describe sauces that have had whipped cream folded into them. This includes both sweet and savory sauces.,['Chantilly'],['Chantilly'],1,0,0,0,0
+1029,Charcuterie," The French word for the variety of pork preparations that are cured, smoked, or processed. This includes sausages, hams, pates, and rillettes. This term may also imply the shop in which these products are sold and the butchers who produce it.",['Charcuterie'],['Charcuterie'],1,0,0,0,0
+1035,Charlottes," A classic French molded dessert; the mold is lined with ladyfingers, sponge cake or bread, then filled with custard, Bavarian cream or whipped cream and/or fruit. It is chilled thoroughly and unmolded before serving. Apple charlottes are baked and served warm.",['Charlottes'],['Charlottes'],1,0,0,0,0
+1037,Chasseur," [French] a sauce made with wine, mushrooms and shallots.",['Chasseur'],['Chasseur'],1,0,0,0,0
+1065,Chef, (French) A culinary expert. The chief of the kitchen.,['Chef'],['Chef'],1,0,0,0,0
+1076,Chevre Cheese," A French cheese made from goat's milk. Chevre is usually pure white with a tart flavor. Its texture ranges from dry and crumbly to moist and creamy. It comes in various sizes and shapes, sometimes garnished with black ash, leaves, herbs or pepper.","['Chevre', 'Cheese']","['Chevre', 'Cheese']",1,0,0,0,0
+1077,Chevre," [French] goat, generally referring to goat's milk cheeses.",['Chevre'],['Chevre'],1,0,0,0,0
+1097,Chiffonade," [French] a very fine julienne of vegetables usually associated with leafy herbs, lettuces, or greens.",['Chiffonade'],['Chiffonade'],1,0,0,0,0
+1151,Chinois," [French] Chinese. Also refers to a ""China Cap,"" a very fine mesh, conical strainer.",['Chinois'],['Chinois'],1,0,0,0,0
+1174,Choucroute," [French] an Alsatian specialty consisting of sauerkraut that is simmered with assorted fresh and smoked meats and sausages. This is a grand dish served on huge platters so that diners may witness all of the components displayed at one time. The kraut is first washed, then seasoned with garlic, caraway seeds, and white wine. The meats are layered in the casserole with the kraut and cooked until all the meat is tender and the flavors have blended together. Pork sausages, smoked pork shanks and shoulders, and fresh pork loin are all used. A variation of this, though not actually called a choucroute, is a whole pheasant cooked in sauerkraut with champagne. There are other recipes that consist of solely fish in with the sauerkraut. This can be quite delicious if properly prepared.",['Choucroute'],['Choucroute'],1,0,0,0,0
+1179,Chowder," A thick soup or a stew made of shellfish, fish or vegetables. The term Î¥chowderÎ¦ comes from the French chaudi re, meaning Î¥boiler.Î¦ Fishermen cooked their food fresh from the sea in these large kettles.",['Chowder'],['Chowder'],1,0,0,0,0
+1198,Citron," An oval-shaped fruit similar to a lemon (citron is the French term for lemon) but much larger and less acidic. As the pulp is extremely sour, citron is grown for its thick peel, which is candied and used in baking",['Citron'],['Citron'],1,0,0,0,0
+1201,Civet," A French stew usually containing game, though duck and goose are used. The meat is marinated in red wine for long periods of time, then stewed with pearl onions and bacon. The sauce was once thickened with blood, but that is a method not used much anymore.",['Civet'],['Civet'],1,0,0,0,0
+1256,Cocotte," [French] A small, straight sided metal, earthenware or porcelain baking dish with a cover, used for cooking eggs (in a pan of hot water) in the oven.",['Cocotte'],['Cocotte'],1,0,0,0,0
+1261,Coddling, [French] cooking process whereby food is slowly simmered in water.,['Coddling'],['Coddling'],1,0,0,0,0
+1315,Compote," [French] Dried and fresh fruit cooked with sugar to a jam like consistency, brief enough to allow the fruit to retain their individual identity. A deep bowl, often stemmed, from which such desserts and other foods are served.",['Compote'],['Compote'],1,0,0,0,0
+1324,Concasse, [French] term for chopping a vegetable coarsely. This is used most often when referring to chopped tomatoes or other soft foods.,['Concasse'],['Concasse'],1,0,0,0,0
+1329,Conde, [French] dessert made with rice; pastry biscuits topped with icing and glazed in the oven.,['Conde'],['Conde'],1,0,0,0,0
+1334,Condiment, 1. Seasoning or flavoring mixture used to accompany foods. 2. The French term for chutney.,['Condiment'],['Condiment'],1,0,0,0,0
+1344,Conserve, [French] whole fruit preserved by boiling with sugar and used like jam.,['Conserve'],['Conserve'],1,0,0,0,0
+1408,Coq Au Vin," A French dish of chicken, mushrooms, onions, and bacon or salt pork cooked in red wine. ","['Coq', 'Au', 'Vin']","['Coq', 'Au', 'Vin']",1,0,0,0,0
+1409,Coq au Vin," [French] a chicken stew flavored with red wine, bacon, mushrooms, and pearl onions.","['Coq', 'au', 'Vin']","['Coq', 'au', 'Vin']",1,0,0,0,0
+1410,Coquille," [French] scallop; shell-shaped oven proof dish used to serve fish, shellfish or poultry.",['Coquille'],['Coquille'],1,0,0,0,0
+1411,Coquilles St. Jacques, [French] scallops.,"['Coquilles', 'St.', 'Jacques']","['Coquilles', 'St.', 'Jacques']",1,0,0,0,0
+1416,Cordon Bleu," [French] highly qualified cook. According to legend, King Louis XV of France once awarded a blue ribbon to a female chef who had prepared an outstanding meal; (United States) chicken stuffed with ham and white sauce.","['Cordon', 'Bleu']","['Cordon', 'Bleu']",1,0,0,0,0
+1450,Cote, [French] chop or rib.,['Cote'],['Cote'],1,0,0,0,0
+1456,Coulis," [French] a puree of fruit or vegetables, used as a sauce or flavoring agent to other sauces or soups. As sauces, they are thinned down just enough to reach the proper consistency, but not so much as to alter the intense flavor of the puree.",['Coulis'],['Coulis'],1,0,0,0,0
+1458,Coupe, [French] a dish of ice cream.,['Coupe'],['Coupe'],1,0,0,0,0
+1467,Courgette, [French] zucchini.,['Courgette'],['Courgette'],1,0,0,0,0
+1475,Cr pe, A very thin delicate French pancake used for sweet and savory fillings.,"['Cr', 'pe']","['Cr', 'pe']",1,0,0,0,0
+1476,Cr pes Suzette, [French] pancakes cooked in orange sauce and flamed in liqueur.,"['Cr', 'pes', 'Suzette']","['Cr', 'pes', 'Suzette']",1,0,0,0,0
+1501,Creme Brulee, [French] cream custard with caramelized topping.,"['Creme', 'Brulee']","['Creme', 'Brulee']",1,0,0,0,0
+1505,Creme," [French] Applied to fresh cream, butter and custard creams, and thick creamy soups.",['Creme'],['Creme'],1,0,0,0,0
+1511,Crepe," The French term for pancake; thin and light, crepes are usually served with a variety of fillings. The egg and flour batter can be sweetened if a dessert crepe is desired, and filled with a jam or fruit mixture. Crepes can also be served as a first or main course, filled with a meat, cheese or vegetable mixture and topped with a complimentary sauce.",['Crepe'],['Crepe'],1,0,0,0,0
+1516,Crevettes, [French] shrimps.,['Crevettes'],['Crevettes'],1,0,0,0,0
+1527,Croque-Monsieur, The French version of a grilled ham and cheese sandwich with Gruyere cheese.,['Croque-Monsieur'],['Croque-Monsieur'],1,0,0,0,0
+1535,Croutes," [French] pastry covering meat, fish and vegetables; slices of bread or brioche, spread with butter or sauce, and baked until crisp.",['Croutes'],['Croutes'],1,0,0,0,0
+1570,Cuisse, [French] thigh or leg.,['Cuisse'],['Cuisse'],1,0,0,0,0
+1571,Cuisson," 1. The French term for cooking; used to explain culinary processes and details, especially cooking times. 2. Poaching liquid (such as stock, fumet, court bouillon or other liquid) that can be reduced and used as a base for the poached item's sauce.",['Cuisson'],['Cuisson'],1,0,0,0,0
+1632,Darne," [French] The Larousse Gastronomique describes a 'darne' as a transverse slice of a large raw fish, such as hake, salmon or tuna.",['Darne'],['Darne'],1,0,0,0,0
+1645,Daube," A classic French stew or pot roast consisting of a single piece of meat such as a shoulder or joint. The meat is stewed in a rich, wine laden broth with herbs and vegetables. The broth is then thickened, reduced and served with the slices of meat and accompanying vegetables.",['Daube'],['Daube'],1,0,0,0,0
+1689,Demi-Glace," [French] a rich brown sauce comprised of espagnole sauce, which is further enriched with veal stock and wine and reduced to proper consistency. This is a very long procedure and requires constant skimming. A quick version of this involves reducing brown veal stock to which has been added mirepoix, tomato paste, wine, and brown roux. The latter recipe saves time, but never reaches the intensity of flavor as does the former method. Due to the quantity and length of time required to prepare it, it is not usually made in the home. However it is available for home gourmands.",['Demi-Glace'],['Demi-Glace'],1,0,0,0,0
+1831,Du Jour," French term meaning ""of the day""; used to indicate a special menu item.","['Du', 'Jour']","['Du', 'Jour']",1,0,0,0,0
+1861,Eau-de-vie," [French] ""water of life,"" describes any colorless brandy distilled from fermented fruit juice. Kirsch (cherry) and framboise (raspberry) are two popular varieties.",['Eau-de-vie'],['Eau-de-vie'],1,0,0,0,0
+1865,Eclair," [French] a small finger-shaped bun made of puff paste with a glace icing, filled with custard or whipped cream.",['Eclair'],['Eclair'],1,0,0,0,0
+1868,Ecrivisses, [French] crayfish.,['Ecrivisses'],['Ecrivisses'],1,0,0,0,0
+1925,En crocite, [French] food encased in pastry.,"['En', 'crocite']","['En', 'crocite']",1,0,0,0,0
+1928,En Papilotte," [French] Food wrapped, cooked and served in oiled or buttered paper or foil.","['En', 'Papilotte']","['En', 'Papilotte']",1,0,0,0,0
+1955,Epinards, [French]  spinach.,['Epinards'],['Epinards'],1,0,0,0,0
+1967,Espresso," This thick, strong coffee is made from French or Italian roast -  beans with a shiny, dark oily surface.",['Espresso'],['Espresso'],1,1,0,0,0
+1975,Etouffee," The French term a l'etouffee, meaning ""to smother or suffocate,"" refers to a method in which foods are cooked over low heat with a minimal amount of liquid in a tightly covered pan. Example",['Etouffee'],['Etouffee'],1,0,0,0,0
+1976,etouffee, French for smothered and refers to a stewed dish cooked little liquid in a tightly closed pot. Usually served over white rice.,['etouffee'],['etouffee'],1,0,0,0,0
+2006,Faggot," [French] a stalk of celery tied with parsley, bay leaf and thyme. Used in cooking soups, then discarded; Small savory cake made of pork offal, onion and bread, then baked.",['Faggot'],['Faggot'],1,0,0,0,0
+2014,Farce, [French] forcemeat.,['Farce'],['Farce'],1,0,0,0,0
+2015,Farci, [French] stuffed.,['Farci'],['Farci'],1,0,0,0,0
+2055,Ficelle," [French] string. This term is used in cooking to describe foods that have been tied to a string and cooked in a broth. This was a practice in villages when a communal pot was used to cook food. The string was used in order to allow the owners to identify and recover their piece of meat. This is generally applied to tough cuts of meat that require long periods of cooking. Yet, some restaurants are using the term to describe a more tender cut of meat that is poached in a rich broth. Beef filet and duck breasts are two good choices for this type of preparation.",['Ficelle'],['Ficelle'],1,0,0,0,0
+2101,Flageolets," A French kidney-shaped bean, generally available in the United States dried or canned; often used as an accompaniment to lamb.",['Flageolets'],['Flageolets'],1,0,0,0,0
+2104,Flamb," [French] served flaming, accomplished by pouring spirits over food and igniting them.",['Flamb'],['Flamb'],1,0,0,0,0
+2109,Flan," This is a term that may be used to describe two different preparations. The first use of this word is describes an open top tart that is filled with pastry cream and topped with fruit. Flan is used in Spanish and Mexican cooking to describe an egg custard that is baked in a large shallow dish, and flavored with caramel. The dish is inverted when served and the excess caramel is used as a sauce for the flan. The flan may be flavored with orange, anise, cinnamon, or liqueur. [Spanish] traditional Mexican and Southwestern baked caramel custard dessert; similar to the French ""creme caramel"" or ""creme brulee.""",['Flan'],['Flan'],1,0,0,1,1
+2121,Fleur de sel," [French] ""flower of the salt."" A rare sea salt harvested by hand in Brittany, France and available only in limited quantities. Composed of the natural crystal formations found on the surface of a salt marsh. The crystals are sun-dried only, thereby maintaining many of the nutrients not found in typical prepared salts. Fleur de Sel's unrefined nature lends itself to be served as a condiment, rather than a seasoning, adding both texture and flavor to a meal.","['Fleur', 'de', 'sel']","['Fleur', 'de', 'sel']",1,0,0,0,0
+2130,Florentine," [French] This is used to describe foods that are cooked in the style of Florence. The word is most commonly associated with dishes containing spinach and sometimes a cream sauce. Steak cooked ala Florentine is a large T-bone steak, rubbed with olive oil and garlic, grilled and served with fresh lemon on the side.",['Florentine'],['Florentine'],1,0,0,0,0
+2143,Foie Gras," [French] literally translated, ""fat liver""; but the term is used to describe the fattened liver of both duck and geese. The birds are force fed a rich mixture to help expedite this process. The largest production of commercial foie gras is done in France and Israel. The US will only allow this product to be imported in a cooked stage, either canned, vacuum-sealed, or frozen. These are inferior products and will never highlight the true delicacy of foie gras.","['Foie', 'Gras']","['Foie', 'Gras']",1,0,0,0,0
+2178,Fraises, [French] strawberries.,['Fraises'],['Fraises'],1,0,0,0,0
+2179,Framboise, [French] a raspberry-flavored liqueur with a high alcohol content. ,['Framboise'],['Framboise'],1,0,0,0,0
+2189,Frappe," (from the French frappe) A simple sugar syrup mixed with fruit or other flavorings and frozen, then processed to a slightly slushy consistency. It can be served as a drink or a dessert. In some parts of the United States, a milk shake is sometimes referred to as a frappe. ",['Frappe'],['Frappe'],1,0,0,0,0
+2222,Fricadillee," [French] meat balls, made with minced pork and veal, spices, white bread crumbs, cream and egg, then poached in stock or shallow-fried in a pan.",['Fricadillee'],['Fricadillee'],1,0,0,0,0
+2223,Fricass e," [French] stew made of chicken or veal cut into pieces and cooked in a gravy. Though chicken is the most common form of this type of stew, fish, vegetables, and other meats are prepared in this manner.","['Fricass', 'e']","['Fricass', 'e']",1,0,0,0,0
+2240,Fromage Blanc," A simple French white cheese. This soft, fresh cream cheese has the consistency of sour cream. Fromage blanc is usually eaten with fruit and sugar as dessert, but it can also be used in cooking.","['Fromage', 'Blanc']","['Fromage', 'Blanc']",1,0,0,0,0
+2241,Fromage, A French cheese.,['Fromage'],['Fromage'],1,0,0,0,0
+2269,Fumet," [French] an aromatic broth made for use in soups and sauces. The flavor of a fumet is usually concentrated on one item, though multiple ingredients may be used. The stock is then reduced to concentrate this flavor. Fish and vegetable broths are more commonly called fumets, but meat may also be used.",['Fumet'],['Fumet'],1,0,0,0,0
+2280,Galantine," [French] A pate-like dish made of the skin of a small animal, most often chicken or duck, which is stuffed with a forcemeat of this animal. Additional strips of meat, blanched vegetables, and truffles are also layered with the forcemeat. This is then wrapped or tied and poached in broth. Galantine are always served cold with their aspic, whereas ballottines may be hot or cold. These terms are often used interchangeably.",['Galantine'],['Galantine'],1,0,0,0,0
+2281,Galette," [French] pancake; usually sweet, made of batters, doughs, or potatoes. Brioche-type dough or puff pastry are often used. Small short butter cookies were once also called galettes. The term has now been stretched to include preparations made of vegetables or fish. Different from a croquette, these cakes are not breaded.",['Galette'],['Galette'],1,0,0,0,0
+2305,Gateau, [French] cake,['Gateau'],['Gateau'],1,0,0,0,0
+2306,Gateaux, French for cake.,['Gateaux'],['Gateaux'],1,0,0,0,0
+2318,Gele, [French] jellied; iced.,['Gele'],['Gele'],1,0,0,0,0
+2330,Genoise," [French] a very rich sponge cake made with eggs and butter. This may be eaten as is with whipped cream or fruit, but also used as the foundation for many other cake preparations.",['Genoise'],['Genoise'],1,0,0,0,0
+2344,Glace de Viande, [French] Meat glaze or residue in the bottom of a pan after roasting or frying meat; concentrated meat stock.,"['Glace', 'de', 'Viande']","['Glace', 'de', 'Viande']",1,0,0,0,0
+2345,Glace," [French] a highly reduced stock used as an essence in flavoring sauces and enriching soups and stews. Veal glace is used for all meat preparations and stands up the best to the long reduction required. Fish and shellfish glaces are used, but their flavor can become dirty tasting and bitter from too long of a reduction.",['Glace'],['Glace'],1,0,0,0,0
+2371,Gorgonzola," [Italian] cheese made from cow's milk cheese that is white or yellow and streaked with blue. It has a distinct aroma and can have a mellow, strong, or sharp flavor, depending on its degree of maturity. Similar to American blue and French Roquefort cheeses.",['Gorgonzola'],['Gorgonzola'],1,1,0,0,0
+2375,Goujon, [French] Gudgeons -  small fish fried and served as a garnish.,['Goujon'],['Goujon'],1,0,0,0,0
+2379,Gourmet," French term meaning ""connoisseur of culinary delights"".",['Gourmet'],['Gourmet'],1,0,0,0,0
+2384,Grand Marnier," [French] Orange-flavored, cognac based liqueur produced in France.","['Grand', 'Marnier']","['Grand', 'Marnier']",1,0,0,0,0
+2387,Graniti," [French] sorbet, grained and flavored ice.",['Graniti'],['Graniti'],1,0,0,0,0
+2399,Gras, [French] fat.,['Gras'],['Gras'],1,0,0,0,0
+2402,"Gratin, au", [French] dishes cooked in the oven which form a crust on the surface. This is expedited by placing the dish under the broiler. Bread crumbs and cheese are often sprinkled on top of these dishes to help form the crust.,"['Gratin,', 'au']","['Gratin,', 'au']",1,0,0,0,0
+2423,Grenouilles," [French] frogs, frogs' legs.",['Grenouilles'],['Grenouilles'],1,0,0,0,0
+2471,Guiche, [French] Alsatian open tart with savory filling on top of cream and eggs. Equivalent to quiche.,['Guiche'],['Guiche'],1,0,0,0,0
+2519,Haricots vert," Very small and slender green bean [syn:  haricot vert, French bean]","['Haricots', 'vert']","['Haricots', 'vert']",1,0,0,0,0
+2529,Hash," From the French hatcher, which means ""to chop,"" hash is a dish of chopped meat, usually roast beef or corned beef, combined with vegetables and seasonings and saut ed until lightly browned. It is frequently served with a sauce or gravy.",['Hash'],['Hash'],1,0,0,0,0
+2533,Haute Cuisine," French term for the highest quality restaurant food available. The ingredients in this cuisine are not only of the finest quality, but the food is elegant and elaborate as well.","['Haute', 'Cuisine']","['Haute', 'Cuisine']",1,0,0,0,0
+2557,Herbes de Provence," A French term for a mixture of dried herbs, usually containing basil, marjoram, rosemary, sage, summer savory, lavender, thyme, and fennel seed.","['Herbes', 'de', 'Provence']","['Herbes', 'de', 'Provence']",1,0,0,0,0
+2561,Hermitage," A French appellation located in northern Rhone. Its highly regarded red wines, made from Syrah grapes, and white wines, made from Marsanne and Rousanne, are the epitome of a world class wine.",['Hermitage'],['Hermitage'],1,0,0,0,0
+2592,Homard, [French] Lobster.,['Homard'],['Homard'],1,0,0,0,0
+2622,Hotte," Grape picking basket worn on the backs of French grape pickers. It is traditionally made of wood, but today can be found made of metal or plastic.",['Hotte'],['Hotte'],1,0,0,0,0
+2638,Hultres, [French] Oysters,['Hultres'],['Hultres'],1,0,0,0,0
+2691,Infusion Coffee Maker, This type of coffee maker consists of a glass pot with a mesh covered plunger that is pressed downward to trap the coffee grounds after steeping. Also known as cafetiere or French press. ,"['Infusion', 'Coffee', 'Maker']","['Infusion', 'Coffee', 'Maker']",1,0,0,0,0
+2781,Jambon, [French] ham.,['Jambon'],['Jambon'],1,0,0,0,0
+2825,"Jus, au", [French] meat served with its natural juices. ,"['Jus,', 'au']","['Jus,', 'au']",1,0,0,0,0
+2826,Jus," [French] a rich, lightly reduced stock used as a sauce for roasted meats. Many of these are started by deglazing the roasting pan, then reduced to achieve the rich flavor desired.",['Jus'],['Jus'],1,0,0,0,0
+2920,Lait, (French) Milk.,['Lait'],['Lait'],1,0,0,0,0
+2928,Langouste," [French] spiny lobster, differentiating from Maine lobsters in that they have no claws. Langoustes are warm water crustaceans that can be found in the south Atlantic Ocean, the Mediterranean Sea and off the coasts of South America, Australia and the West Indies.",['Langouste'],['Langouste'],1,0,0,0,0
+2929,Langoustine," [French] Dublin prawn. These are small pink crustaceans resembling crayfish, with a taste and texture closest to lobster. Their claws are quite long but have no edible meat in them. Like the langouste, these are found in warm waters.",['Langoustine'],['Langoustine'],1,0,0,0,0
+2930,Langue de chat," [French] Flat, finger-shaped, crisp biscuit or cookie served with cold desserts.","['Langue', 'de', 'chat']","['Langue', 'de', 'chat']",1,0,0,0,0
+2931,Langue, [French] tongue,['Langue'],['Langue'],1,0,0,0,0
+2932,Lapin, [French] rabbit,['Lapin'],['Lapin'],1,0,0,0,0
+2973,Legumes," [French] vegetables; plants with seed pods, such as peas and beans. Seeds of a legume are most often soaked and used in soups, stews and baked dishes.",['Legumes'],['Legumes'],1,0,0,0,0
+3072,Lyonnaise Potatoes, A French side dish of sliced potatoes sauteed with onions.,"['Lyonnaise', 'Potatoes']","['Lyonnaise', 'Potatoes']",1,0,0,0,0
+3073,Lyonnaise Sauce," A classic French sauce preparation made with sauteed onions, white wine and demi-glace. The sauce is strained before being served with meats and sometime poultry.","['Lyonnaise', 'Sauce']","['Lyonnaise', 'Sauce']",1,0,0,0,0
+3074,Lyonnaise," [French] In the Lyons style, traditionally with onions.",['Lyonnaise'],['Lyonnaise'],1,0,0,0,0
+3082,Macedoine, [French] A mixture of fruit or vegetables. Vegetable macedoine are cut into small dice and used as a garnish to meats. Fruit macedoine are cut in larger pieces and often marinated in sugar syrup with liqueur.,['Macedoine'],['Macedoine'],1,0,0,0,0
+3103,Maigre, French term for a dish containing no meat. It may also refer to lean or low-fat cooking.,['Maigre'],['Maigre'],1,0,0,0,0
+3110,Mais, [French] corn.,['Mais'],['Mais'],1,0,0,0,0
+3144,Maquereau, [French] mackerel.,['Maquereau'],['Maquereau'],1,0,0,0,0
+3155,Marina," [French] Pickled, marinated.",['Marina'],['Marina'],1,0,0,0,0
+3175,Marmite, [French] a rich meat soup or stock; an earthenware stock pot.,['Marmite'],['Marmite'],1,0,0,0,0
+3195,Matelote," [French] in the sailor's style. A fish stew made with wine. The Alsatian version of this dish is made with freshwater fish, Riesling wine, and thickened with cream and egg yolks. The Normandy version includes seafood and is flavored with cider and Calvados. These stews are normally embellished with pearl onions and mushrooms. Also, asauce made with court bouillon and red wine.",['Matelote'],['Matelote'],1,0,0,0,0
+3209,Medallion," [French] the ""eye"" of a rib lamb chop.",['Medallion'],['Medallion'],1,0,0,0,0
+3234,Meringue," [French] whipped egg whites to which sugar has been added to form a stiff paste. These are used to lighten mousses, cakes and pastry creams. Unsweetened versions are used to lighten forcemeats.",['Meringue'],['Meringue'],1,0,0,0,0
+3253,Miel, [French and Italian] honey.,['Miel'],['Miel'],1,1,0,0,0
+3281,Mirabelle," [French] small yellow plum, used as tart filling; a liqueur made from small yellow plums.",['Mirabelle'],['Mirabelle'],1,0,0,0,0
+3287,Mise en place," [French] mise (to put) en (in) place (place). A French term well-known to any professional cook. It means ""putting in place,"" and refers to the many prepped ingredients that must be on hand in order to be ready for meal service.","['Mise', 'en', 'place']","['Mise', 'en', 'place']",1,0,0,0,0
+3327,Mont Blanc, A classic French dessert made with sweetened chestnut puree. The puree is passed through a ricer and formed into a fluffy mound on a platter. The dessert is then topped with whipped cream.,"['Mont', 'Blanc']","['Mont', 'Blanc']",1,0,0,0,0
+3347,Mother Sauces," A French concept that classifies all sauces into five foundation sauces called ""mother"" or ""grand sauces."" From these five sauces, all sauces can be made. They are:  1. Demiglace or brown; 2. Veloute or blond; 3. Bechamel or white; 4. Hollandaise or butter; 5. Tomato or red.","['Mother', 'Sauces']","['Mother', 'Sauces']",1,0,0,0,0
+3349,Mouler, [French] To grind soft food into a puree or dry food into a powder.,['Mouler'],['Mouler'],1,0,0,0,0
+3350,Moules, [French] mussels.,['Moules'],['Moules'],1,0,0,0,0
+3356,Moutarde, [French] mustard.,['Moutarde'],['Moutarde'],1,0,0,0,0
+3357,Mouton, [French] mutton.,['Mouton'],['Mouton'],1,0,0,0,0
+3442,Neufchatel," [French] A soft unripened cheese originally from Neufchatel-en-Bray, France. It has a fat content of 44 to 48%. Also available as low-fat cream cheese in the U.S.",['Neufchatel'],['Neufchatel'],1,0,0,0,0
+3458,Nicoise Olive," Small French black (harvested fully ripe) olive with a high pit-to-meat ratio. Nicoise olives are brine-cured and packed in olive oil, often with herbs. They can vary in color from purple-brown to brown-black, and have a rich, nutty, smooth flavor.","['Nicoise', 'Olive']","['Nicoise', 'Olive']",1,0,0,0,0
+3459,"Nicoise, A La"," Food cooked in the manner of the chefs of the French city of Nice, generally includes a garnish of garlic, tomatoes, anchovies, black olives, capers and lemon juice.","['Nicoise,', 'A', 'La']","['Nicoise,', 'A', 'La']",1,0,0,0,0
+3460,"Nicoise, Nigoise"," [French] foods cooked in the style of Nice. These dishes may include garlic, Nicoise olives, anchovies, tomatoes, and green beans. Salad Nicoise is the most famous of all these dishes, consisting of potatoes, olives, green beans, and vinaigrette dressing. Also, a garnish of garlic, tomatoes, capers and lemon.","['Nicoise,', 'Nigoise']","['Nicoise,', 'Nigoise']",1,0,0,0,0
+3468,Noix, [French] nut.,['Noix'],['Noix'],1,0,0,0,0
+3494,Normal stock (food industry term), [French] noodles.,"['Normal', 'stock', '(food', 'industry', 'term)']","['Normal', 'stock', '(food', 'industry', 'term)']",1,0,0,0,0
+3524,Oeuf, [French] egg.,['Oeuf'],['Oeuf'],1,0,0,0,0
+3531,Oie, [French] goose.,['Oie'],['Oie'],1,0,0,0,0
+3532,Oignon, [French] onion.,['Oignon'],['Oignon'],1,0,0,0,0
+3600,Oseille, [French] sorrel.,['Oseille'],['Oseille'],1,0,0,0,0
+3652,Pain Perdu," ""Lost bread."" French toast.","['Pain', 'Perdu']","['Pain', 'Perdu']",1,0,0,0,0
+3653,Pain, [French] bread.,['Pain'],['Pain'],1,0,0,0,0
+3670,Panache, [French] mixed.,['Panache'],['Panache'],1,0,0,0,0
+3715,Parfait," [French] A dessert made of layers of fruit, syrup, ice cream and whipped cream, frozen and served in tall slender glasses.",['Parfait'],['Parfait'],1,0,0,0,0
+3716,Parfum, [French] flavor.,['Parfum'],['Parfum'],1,0,0,0,0
+3720,Parmentier, [French] any dish prepared with potatoes. The term is derived from Antoine Parmentier who introduced the potato to France.,['Parmentier'],['Parmentier'],1,0,0,0,0
+3742,Elbows, To kill bacteria by heating liquids to moderately high temperatures only briefly. French scientist Louis Pasteur discovered the solution while he was researching the cause of beer and wine spoilage.,['Elbows'],['Elbows'],1,0,0,0,0
+3743,Farfalle," [French] to sterilize milk by heating it to 60 to 82C or 140 to 180F degrees to destroy harmful bacteria. The term is derived from Louis Pasteur, who developed the method.",['Farfalle'],['Farfalle'],1,0,0,0,0
+3768,Patatas," A well:seasoned French preparation using a meat or fish paste filling. Sometimes a fruit or vegetable mixture is used. Can be smooth or coarsely textured. Pates may be served hot or cold, usually as a first course or appetizer. ",['Patatas'],['Patatas'],1,0,0,0,0
+3770,Pate a Choux," [French] a term referring to many different preparations of meat, fish and vegetable pies. The definitions of which have been altered through the years. Originally patâ referred to a filled pastry much like American or English pies. Now the term pate en croute is used to describe these preparations. Pate en terrine has been shortened to either pate or terrine. A terrine is generally a finer forcemeat than that used for pate, and is always served cold. Pates are coarser forcemeats and, as stated before, are often prepared in a pastry crust. We now use these terms interchangeably and inclusive of all styles of forcemeat. Look for definitions under ballottine and galantine.","['Pate', 'a', 'Choux']","['Pate', 'a', 'Choux']",1,0,0,0,0
+3771,Pate a Foncer, [French] pasta.,"['Pate', 'a', 'Foncer']","['Pate', 'a', 'Foncer']",1,0,0,0,0
+3772,Pate Brisee, [French] pastry.,"['Pate', 'Brisee']","['Pate', 'Brisee']",1,0,0,0,0
+3779,Pates," [French] cold savory mousse mixture set in a square mold coated with aspic jelly; square sponge cake, filled with butter cream and coated with icing.",['Pates'],['Pates'],1,0,0,0,0
+3785,Patty," French name avariety of vegetables cut in a small square, usually about 1/4"". Used in soups or granish for meats and seafood.",['Patty'],['Patty'],1,0,0,0,0
+3787,Paupiettes," A dessert created in the late 1800s by the famous French chef Escoffier for Dame Nellie Melba, a popular Australian opera singer. It's made with two peach halves that have been poached in syrup and cooled. Each peach half is placed hollow side down on top of a scoop of vanilla ice cream, then topped with Melba sauce (a raspberry sauce) and sometimes with whipped cream and sliced almonds. ",['Paupiettes'],['Paupiettes'],1,0,0,0,0
+3801,Peanut, [French] peach.,['Peanut'],['Peanut'],1,0,0,0,0
+3824,Peppercorn, [French] partridge.,['Peppercorn'],['Peppercorn'],1,0,0,0,0
+3835,Guajillo, [French] parsley.,['Guajillo'],['Guajillo'],1,0,0,0,0
+3847,Perejil, [French] a roll.,['Perejil'],['Perejil'],1,0,0,0,0
+3848,Performance allowance (food industry term), [French] Tiny young green peas.,"['Performance', 'allowance', '(food', 'industry', 'term)']","['Performance', 'allowance', '(food', 'industry', 'term)']",1,0,0,0,0
+3864,Pet foods and supplies (food industry term)," French green olive, salt-brine cured, with a subtle, slightly salty flavor; sometimes preserved with citric acid in the United States.","['Pet', 'foods', 'and', 'supplies', '(food', 'industry', 'term)']","['Pet', 'foods', 'and', 'supplies', '(food', 'industry', 'term)']",1,0,0,0,0
+3884,Pichon," A family of fish that includes the pike, pickerel, and the muskellunge. These freshwater fish have long bodies, pointed heads, vicious teeth, and provide a lean, firm, bony flesh. Used in French ""quenelles"" and the Jewish ""gefilte fish."" ",['Pichon'],['Pichon'],1,0,0,0,0
+3907,"Pilaf, Pilau", [French] Guinea hen.,"['Pilaf,', 'Pilau']","['Pilaf,', 'Pilau']",1,0,0,0,0
+3919,Pimientos dulces, A southern French pizza consisting of a thick bread crust covered with cooked onions flavored with garlic. The pizza is then topped with black olives and anchovies.,"['Pimientos', 'dulces']","['Pimientos', 'dulces']",1,0,0,0,0
+3927,Pinon," [French] meat or chicken, cooked in red wine, tomato sauce and flavored with garlic; plat du jour -  dish of the day.",['Pinon'],['Pinon'],1,0,0,0,0
+3965,Plum Sauce, [French] fish.,"['Plum', 'Sauce']","['Plum', 'Sauce']",1,0,0,0,0
+3978,Poblano, [French] potato.,['Poblano'],['Poblano'],1,0,0,0,0
+3979,Poele, [French] apple.,['Poele'],['Poele'],1,0,0,0,0
+4009,Porcini, [French] thick soup.,['Porcini'],['Porcini'],1,0,0,0,0
+4015,Porter house steak, [French] chicken.,"['Porter', 'house', 'steak']","['Porter', 'house', 'steak']",1,0,0,0,0
+4016,Porterhouse Steak, [French] young chicken.,"['Porterhouse', 'Steak']","['Porterhouse', 'Steak']",1,0,0,0,0
+4027,Pot roast, In French cookery this is a powder or paste made of caramelized almonds and/or hazelnuts. American cookery refers to a candy consisting of caramel and pecans. Candy eaten in the Southwest; made from brown sugar and pecans.,"['Pot', 'roast']","['Pot', 'roast']",1,0,0,0,0
+4062,Price book (food industry term), [French] garnish of spring vegetables.,"['Price', 'book', '(food', 'industry', 'term)']","['Price', 'book', '(food', 'industry', 'term)']",1,0,0,0,0
+4108,"Profit, net (food industry term)"," [French] in the Provence style; served with a spicy garnish of tomatoes, mushrooms and garlic in oil.","['Profit,', 'net', '(food', 'industry', 'term)']","['Profit,', 'net', '(food', 'industry', 'term)']",1,0,0,0,0
+4118,Promotional licensing (food industry term)," A rich, multilayered French pastry made with butter, flour, eggs, and water. Puff pastry is made by placing chilled butter pats between layers of dough, then rolling the dough, folding it in thirds and letting it rest. The process is repeated several times, producing a dough with hundreds of layers of dough and butter. When baked, the moisture in the butter creates steam, which causes the dough to separate into flaky layers. ","['Promotional', 'licensing', '(food', 'industry', 'term)']","['Promotional', 'licensing', '(food', 'industry', 'term)']",1,0,0,0,0
+4136,"Puff paste, pastry", [French] sieved raw or cooked food; thick vegetable soup which is passed through a sieve or an electric blender or food processor.,"['Puff', 'paste,', 'pastry']","['Puff', 'paste,', 'pastry']",1,0,0,0,0
+4145,Pumate," A truncated pyramid is the shape of this small French chevre that is often coated with dark gray edible ash. The texture can range from soft to slightly crumbly and depending upon its age, in flavor from mild to sharp. It is wonderful served with crackers or bread and fruit.",['Pumate'],['Pumate'],1,0,0,0,0
+4154,Quatre-epices," A French spice mixture containing ground cinnamon, nutmeg, cloves, and pepper. This mixture is used to season stews and pates.",['Quatre-epices'],['Quatre-epices'],1,0,0,0,0
+4157,Quenches, [French] Light savory dumplings made of meat or fish and used as a garnish or in a delicate sauce.,['Quenches'],['Quenches'],1,0,0,0,0
+4170,Quiche Lorraine, [French] A custard pie containing cheese and ham or bacon.,"['Quiche', 'Lorraine']","['Quiche', 'Lorraine']",1,0,0,0,0
+4171,Quiche," [French] a savory, open top pie made of eggs, milk or cream, and anything else within reach. The most famous of these is the quiche Lorraine of Alsace, made with bacon and Gruyere cheese.",['Quiche'],['Quiche'],1,0,0,0,0
+4187,Ragout," A French term for a well seasoned stew made of meat, fish, or vegetables.",['Ragout'],['Ragout'],1,0,0,0,0
+4205,Ratatouille," [French] a vegetable stew consisting of onions, eggplant, sweet peppers, zucchini, and tomatoes flavored with garlic, herbs, and olive oil.",['Ratatouille'],['Ratatouille'],1,0,0,0,0
+4210,Raw-milk cheese," Made with unpasteurized milk (parmigiano reggiano, Swiss gruyere, French roquefort, traditional cheddars).","['Raw-milk', 'cheese']","['Raw-milk', 'cheese']",1,0,0,0,0
+4279,Remoulade," This classic French sauce (or salad dressing) is made by combining mayonnaise (usually homemade) with mustard, capers and chopped gherkins, herbs and anchovies. It is served chilled as an accompaniment to cold meat, fish and shellfish.",['Remoulade'],['Remoulade'],1,0,0,0,0
+4361,Ris, [French] sweetbreads.,['Ris'],['Ris'],1,0,0,0,0
+4384,Rognons, [French] kidneys.,['Rognons'],['Rognons'],1,0,0,0,0
+4400,Roquefort Cheese," One of the oldest and best-known cheeses in the world, this French cheese made from sheep's milk is considered the prototype of blue cheeses.","['Roquefort', 'Cheese']","['Roquefort', 'Cheese']",1,0,0,0,0
+4401,Rosbif, [French] roast beef.,['Rosbif'],['Rosbif'],1,0,0,0,0
+4409,RÃ³ti, [French] roast.,['RÃ³ti'],['RÃ³ti'],1,0,0,0,0
+4412,Rotisserie, [French] rotating spit used for roasting or grilling meat or poultry.,['Rotisserie'],['Rotisserie'],1,0,0,0,0
+4417,Roulade," [French] rolled meat, chocolate cake, vegetables, etc.",['Roulade'],['Roulade'],1,0,0,0,0
+4420,Roux," [French] a mixture of flour and fat used to thicken sauces, soups, and stews. Though usually made with butter, roux is also made with bacon or poultry fats, margarine, and vegetable oil. The mixture is cooked for a brief time to remove the raw taste of the starch from the flour. Longer cooking results in a darker color, which is favorable in Creole cooking where roux are cooked for long periods until they reach a dark brown color with a nut-like flavor and aroma.",['Roux'],['Roux'],1,0,0,0,0
+4446,Saignant, [French] referring too meat preparation -  undone.,['Saignant'],['Saignant'],1,0,0,0,0
+4501,Saucisse, [French] a very small sausage.,['Saucisse'],['Saucisse'],1,0,0,0,0
+4502,Saucisson, [French] sausage.,['Saucisson'],['Saucisson'],1,0,0,0,0
+4505,Saumon, [French] salmon.,['Saumon'],['Saumon'],1,0,0,0,0
+4510,Saute," [French] to prepare food by rapidly friying in shallow, hot fat, and turned until evenly browned.",['Saute'],['Saute'],1,0,0,0,0
+4511,Savarin," [French] rich yeast cake, which is baked in a ring mold and soaked in liqueur-flavored syrup. Served cold with cream or cream sauce.",['Savarin'],['Savarin'],1,0,0,0,0
+4776,Sorbet," [French] water, sugar, and flavorings, usually fresh fruit, frozen in an ice-cream machine. Best eaten immediately after making.",['Sorbet'],['Sorbet'],1,0,0,0,0
+4782,Soubise, [French] with a flavoring of pureed onion.,['Soubise'],['Soubise'],1,0,0,0,0
+4783,Souffle," From the French for ""breath,"" a fluffy, airy dish that can be sweet or savory. Souffles rise as they bake, forming a top hat-like shape and most should be served immediately.",['Souffle'],['Souffle'],1,0,0,0,0
+4968,Sucre, [French] sugar.,['Sucre'],['Sucre'],1,0,0,0,0
+5050,Table d'hote," [French] meal of a definite number of courses, selected by the restaurant for a preset price.","['Table', ""d'hote""]","['Table', ""d'hote""]",1,0,0,0,0
+5111,Telera, [Spanish] French roll.,['Telera'],['Telera'],1,0,0,0,1
+5130,Terrine," [French] finely ground meats or fish, etc. See ""Pate"" for description; an earthenware pot used in cooking and serving pasta.",['Terrine'],['Terrine'],1,0,0,0,0
+5154,Timbale," [French] a molded dish. Also a high-sided pie crust filled with cooked meat, fish or fruit.",['Timbale'],['Timbale'],1,0,0,0,0
+5252,Truffle," This is a tuber of unusual flavor and aroma. It is savored in Italian and French cookery, and due to its scarcity, draws a very high price. The truffle has yet to be successfully cultivated, though a fine substitute is now being grown in California. The black truffle of Perigord and the white truffle of Piedmont are highly prized for their exceptional flavors. The black truffle requires cooking to allow the flavors to be fully achieved. Conversely, the white truffle is best when shaved directly on the dish before eating. The aroma of truffles is strong enough to permeate egg shells when the two are stored together. Due to their short growing season and large demand, truffles can reach a price of up to $800 per pound. Frozen and canned forms are more accessible, but their taste never reaches that of fresh truffles. Also, a very rich chocolate candy.",['Truffle'],['Truffle'],1,1,0,0,0
+5253,Truite, [French]  trout,['Truite'],['Truite'],1,0,0,0,0
+5377,Veau, [French] veal.,['Veau'],['Veau'],1,0,0,0,0
+5386,Veloute," [French] an extremely smooth creamy sauce of various stock bases thickened with a roux. This is used as a base for other more complex sauces, though it may be used alone.",['Veloute'],['Veloute'],1,0,0,0,0
+5400,Veronique, [French] containing or garnished with green grapes.,['Veronique'],['Veronique'],1,0,0,0,0
+5409,Vichyssoise," [French] thick cold smooth soup of potatoes and leeks. Other versions now use zucchini, apples, and carrots.",['Vichyssoise'],['Vichyssoise'],1,0,0,0,0
+5419,Vinaigrette," [French] a sauce commonly used to dress salads, comprised of oil and acid, such s vinegar or citrus juice. Emulsified vinaigrettes use egg and/or mustard to stabilize the dressing. Other combinations using acids other than vinegar, such as wine or citrus juice, are also called vinaigrettes.",['Vinaigrette'],['Vinaigrette'],1,0,0,0,0
+5427,Vol-au-Vent," [French] a large round pastry case which is filled with a sauced mixture of meat, seafood, or vegetables then topped with a pastry lid. A small puff paste shell with various fillings.",['Vol-au-Vent'],['Vol-au-Vent'],1,0,0,0,0
+5463,Water bath," The French call this cooking technique ""bain marie."" It consists of placing a container of food in a large, shallow pan of warm water, which surrounds the food with gentle heat. The food may be cooked in this manner either in an oven or on top of a range. This technique is designed to cook delicate dishes such as custards, sauces and savory mousses without breaking or curdling them. It can also be used to keep foods warm.","['Water', 'bath']","['Water', 'bath']",1,0,0,0,0
