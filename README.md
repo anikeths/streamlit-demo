@@ -8,3 +8,6 @@ About the food glossary
 
 As a part of the NLP course project, we created a food glossary of various cuisines across the world.
 The user can access these through radio-button toggles.
+
+
+The program has dependency on four .csv files which act as data sources.
